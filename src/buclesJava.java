@@ -20,9 +20,11 @@ public class buclesJava {
                 case 1:
                     opcion++;
                     System.out.println("Saludos");
+                    break;
                 case 2:
                     opcion++;
                     System.out.println("Despedir");
+                    break;
                 case 3:
                     opcion++;
                     System.out.println("Saliendo");
